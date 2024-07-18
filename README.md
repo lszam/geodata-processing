@@ -1,2 +1,2 @@
-# geof-levelling
-Tools for geophysical data - airborne data levelling
+# geof-processing
+Tools for geophysical data - processing - terrestrial data - airborne data levelling
